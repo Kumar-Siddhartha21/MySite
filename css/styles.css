@@ -37,7 +37,7 @@ hr {
 }
 
 a{
-  color: #11999E;
+  color: #42d3d8;
   font-family: 'Montserrat', sans-serif;
   margin: 10px 20px;
   text-decoration: none;
@@ -84,8 +84,8 @@ a:hover {
 
 .copyright {
   color: #EAF6F6;
-  font-size: 0.75rem;
-  padding: 20px 0;
+  font-size: 1rem;
+  padding: 1px 0;
 }
 
 .top-cloud {
@@ -110,6 +110,12 @@ a:hover {
   width: 25%;
   float: right;
   margin-left: 30px;
+}
+
+.visiting{
+  color: #EAF6F6;
+  font-size: 0.85rem;
+  padding: 1px 0;
 }
 
 .btn {
